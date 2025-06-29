@@ -28,3 +28,14 @@ While the system works well, a few challenges were encountered. One issue was de
 
 In conclusion, the project successfully demonstrates how collaborative filtering can be implemented to recommend books based on user behavior. The system performs well on dense sections of the dataset and provides personalized, content-rich recommendations. With further enhancements like user-based collaborative filtering, matrix factorization, or hybrid modeling with content-based filters, the recommendation engine can be scaled and made more accurate for real-world deployment.
 
+![Image](https://github.com/user-attachments/assets/9d2271a1-07cf-49eb-b7cd-603bbd09b383)
+
+![Image](https://github.com/user-attachments/assets/cd5fc307-26e3-4616-94ce-fa1c79f08638)
+
+![Image](https://github.com/user-attachments/assets/bac71f68-ebc0-4c59-b5ec-7b6fc8a67e45)
+
+![Image](https://github.com/user-attachments/assets/fbec2454-a944-47c9-989a-ed141a26c76a)
+
+![Image](https://github.com/user-attachments/assets/36bae1bb-1666-4b01-8bb9-9c3bdb21aeba)
+
+![Image](https://github.com/user-attachments/assets/a1c2caca-dfed-4a77-8989-5886e318081e)
